@@ -44,6 +44,8 @@
 Використовується для посилання еффекту на контроллер
 
 ```java
+// Частина коду
+
  @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -87,3 +89,8 @@
 
 
 ## Демонстрація роботи додатку
+
+
+https://github.com/SSovyshka/vlasniydodatok/assets/91850335/6e02ecd7-0890-402a-80a7-71b1c86fe518
+
+
